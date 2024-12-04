@@ -1,8 +1,14 @@
-<h1 align="center">Hola 👋 Soy Diego </h1>
+# ¡Hola! Soy **Diego** 👋
+
+Soy estudiante de segundo año de la **Tecnicatura en Programación** en la **UTN FRM**. Me encanta todo lo relacionado a la tecnología y el aprendizaje constante.
 
 ## 📒 **Acerca de mí:**
--✏️ Estudiante de la tecnicatura universitaria en Programacion en la UTN. <br/>
--📕 Me estoy enfocando en el desarrollo Front-End pero sabiendo lo suficiente tambien de Back-End para poder realizar aplicaciones completas.
+- 💻 Desarrollador en constante evolución, trabajando en proyectos únicos y significativos.
+- 👩‍💻 Apasionado por optimizar procesos, explorar nuevas tecnologías y crear soluciones innovadoras.
+
+## 🌱 **Actualmente aprendiendo:**
+- Lenguajes de programación: Python, JavaScript, Java
+- Frameworks y herramientas: React, NodeJS, MongoDB
 
 <br>
 <h3 align="left">Lenguajes y herramientas:</h3>
